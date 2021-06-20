@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Liste
+
+  Created by Thomas on 26/06/2021.
+  
+*/
+
+"film_sheet_release_date" = "Release date:";
+"film_sheet_synopsis" = "Synopsis";
+"film_sheet_casting" = "Casting";
+"film_sheet_imdb_rate" = "IMDB rate";
+"film_sheet_metascore" = "Metascore";
+
